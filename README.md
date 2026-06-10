@@ -37,7 +37,7 @@ I specialize in end-to-end SaaS products — from responsive, accessible UIs to 
 | 🛡️ **30% fewer** runtime errors | Type-safe tRPC APIs with strict schema validation | Nexobe |
 | 🧩 **20% less** dev time | Reusable component library across SaaS products | Nexobe |
 | 🌍 **137+ languages** | Azure AI Translation integration | AE Reporting |
-| ✅ **100% E2B R3** compliant | Regulatory clinical safety reporting engine | Clinsol Solutions |
+| ✅ **100% E2B R3** compliant | Regulatory clinical safety reporting engine | Clin Solutions L.L.C|
 
 </div>
 
@@ -111,7 +111,7 @@ I specialize in end-to-end SaaS products — from responsive, accessible UIs to 
 ## 🚀 Featured Projects
 
 ### 🏥 Adverse Event Reporting System
-> *Freelance · Clinsol Solutions L.L.C*
+> *Freelance · Clin Solutions L.L.C*
 
 Regulatory-compliant clinical safety reporting platform with a three-tier validation engine, MedDRA hierarchy mapping, and dynamic translations across **137+ languages** using Azure AI + Supabase caching.
 
