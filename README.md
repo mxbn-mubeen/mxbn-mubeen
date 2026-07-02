@@ -207,29 +207,22 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ## 📈 GitHub Stats
 
-
 <div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td>
-![Metrics](./github-metrics.svg)
-</td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mxbn-mubeen&theme=tokyonight&hide_border=true" height="175"/>
+    <td colspan="2">
+      <img src="./github-metrics.svg" width="100%"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxbn-mubeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="155"/>
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxbn-mubeen&theme=tokyo-night&hide_border=true&area=true&area_color=6366F1&custom_title=Contribution+Activity" height="155"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mxbn-mubeen&theme=tokyonight&hide_border=true" height="175"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 ---
