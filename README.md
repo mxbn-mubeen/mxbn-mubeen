@@ -144,29 +144,36 @@ Full Stack Developer with **1+ year of professional experience** building scalab
         <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </p>
       <p>✅ <strong>100% E2B R3 compliant</strong> · 3+ release cycles · Production-deployed</p>
-      <p align="center">
+      <p>
   <a href="https://sideeffects.viginess.com" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Platform-Visit-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform"/>
   </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📅 Caviti AI</h3>
-      <p><strong>Healthcare Scheduling Platform</strong></p>
-      <p>Enterprise medical scheduling platform — type-safe tRPC APIs, responsive dashboards, and Drizzle ORM schema optimised for high-concurrency real-time updates and fast medical record retrieval.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+  <td width="50%" valign="top">
+  <h3>🦷 Caviti AI</h3>
+  <p><strong>AI-Powered Dental SupplyOps Platform</strong></p>
+  <p>Contributed to the development of an enterprise AI platform that streamlines dental inventory management, procurement workflows, and real-time supply tracking. Built scalable type-safe tRPC APIs, responsive React dashboards, and optimized PostgreSQL schemas using Drizzle ORM for high-performance healthcare operations.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+  </p>
+  <p>✅ <strong>Built scalable dashboards & improved API stability by 30%</strong></p>
+     <p>
+  <a href="https://caviti.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Platform-Visit-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform"/>
+  </a>
       </p>
-      <p>✅ <strong>30% API stability improvement</strong></p>
-    </td>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖱️ CV Virtual Mouse</h3>
+      <h3>🖱️ AI Virtual Mouse</h3>
       <p><strong>Computer Vision · Python</strong></p>
       <p>AI-powered virtual mouse using real-time hand tracking via OpenCV and MediaPipe — controls the system cursor with no physical input device. Gesture recognition with sub-20ms latency.</p>
       <p>
