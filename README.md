@@ -144,6 +144,11 @@ Full Stack Developer with **1+ year of professional experience** building scalab
         <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       </p>
       <p>✅ <strong>100% E2B R3 compliant</strong> · 3+ release cycles · Production-deployed</p>
+      <p align="center">
+  <a href="https://sideeffects.viginess.com" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Platform-Visit-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Platform"/>
+  </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📅 Caviti AI</h3>
@@ -202,25 +207,30 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mxbn-mubeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Mubeen%27s+GitHub+Stats" height="175"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mxbn-mubeen&theme=tokyonight&hide_border=true" height="175"/>
-
-</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxbn-mubeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="155"/>
+<table>
+  <tr>
+    <td>
+![Metrics](./github-metrics.svg)
+</td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mxbn-mubeen&theme=tokyonight&hide_border=true" height="175"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxbn-mubeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages" height="155"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxbn-mubeen&theme=tokyo-night&hide_border=true&area=true&area_color=6366F1&custom_title=Contribution+Activity" height="155"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxbn-mubeen&theme=tokyo-night&hide_border=true&area=true&area_color=6366F1&custom_title=Contribution+Activity" width="100%"/>
-
-</div>
 
 ---
 
