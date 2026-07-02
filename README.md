@@ -173,27 +173,29 @@ Full Stack Developer with **1+ year of professional experience** building scalab
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖱️ AI Virtual Mouse</h3>
-      <p><strong>Computer Vision · Python</strong></p>
-      <p>AI-powered virtual mouse using real-time hand tracking via OpenCV and MediaPipe — controls the system cursor with no physical input device. Gesture recognition with sub-20ms latency.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
-      </p>
-      <p>✅ <strong>Real-time gesture control · No hardware required</strong></p>
-    </td>
+  <h3>🖱️ AI Virtual Mouse</h3>
+  <p><strong>Computer Vision · Human-Computer Interaction</strong></p>
+  <p>Built a real-time AI virtual mouse using OpenCV, MediaPipe, and Python to control the system cursor through hand gestures. Implemented hand landmark detection, gesture recognition, cursor smoothing, click detection, and touch-free interaction.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyAutoGUI-4B8BBE?style=flat-square"/>
+  </p>
+  <p>✅ <strong>Real-time hand tracking · Gesture-based cursor control</strong></p>
+</td>
     <td width="50%" valign="top">
-      <h3>🌊 Marine Debris Detection</h3>
-      <p><strong>Computer Vision · Final Year Project</strong></p>
-      <p>ML-powered system for detecting and classifying marine debris in ocean imagery using image segmentation and object detection — automated environmental monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      </p>
-      <p>✅ <strong>Environmental conservation through AI</strong></p>
-    </td>
+  <h3>🌊 Marine Debris Detection</h3>
+  <p><strong>Deep Learning · Final Year Project</strong></p>
+  <p>Developed a CNN-based computer vision system to detect and classify marine debris from ocean imagery. Built an end-to-end deep learning pipeline including data preprocessing, image augmentation, model training, evaluation, and environmental waste classification.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CNN-FF9800?style=flat-square"/>
+  </p>
+  <p>✅ <strong>CNN image classification · Automated marine debris detection</strong></p>
+</td>
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
