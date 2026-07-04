@@ -17,7 +17,7 @@
 
 </div>
 
----
+
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
@@ -32,7 +32,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 📍  Chennai, India  ·  Open to remote & relocation
 ```
 
----
+
 
 <!-- Impact Metrics Section -->
 ## 📊 Impact at a Glance
@@ -50,7 +50,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 </div>
 
----
+
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
@@ -95,7 +95,6 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
----
 
 <!-- Work Experience Section -->
 ## 💼 Work Experience
@@ -119,7 +118,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 
----
+
 
 ### Full Stack Developer — Nexobe `Sep 2024 – Sep 2025`
 *Illinois, United States · Remote*
@@ -141,7 +140,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
 
 
----
+
 
 ### Data Science Intern — Exposys Data Labs `Aug 2023 – Sep 2023`
 
@@ -154,7 +153,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=seaborn&logoColor=white)
 
----
+
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
@@ -241,7 +240,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
   </tr>
 </table>
 
----
+
 
 <!-- GitHub Stats Section -->
 ## 📈 GitHub Stats
@@ -256,7 +255,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 </table>
 </div>
 
----
+
 
 <!-- Education Section -->
 ## 🎓 Education
@@ -264,7 +263,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 **B.E. Computer Science and Engineering** `2020 – 2024`
 Aalim Muhammed Salegh College of Engineering · Anna University
 
----
+
 
 <!-- Footer Section -->
 <div align="center">
