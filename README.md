@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Mubeen%20A%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<!-- Capsule banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Mubeen%20A%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-
+<!-- Rotating  roles -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Developer;Frontend+Developer;Backend+Developer;AI%2FML+Engineer&color=6366F1)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Python+%7C+OpenCV)](https://git.io/typing-svg)
@@ -17,6 +19,7 @@
 
 ---
 
+<!-- About Me Section -->
 ## 👨‍💻 About Me
 
 Full Stack Developer with **1+ year of professional experience** building scalable SaaS and healthcare web applications. Comfortable across the entire product lifecycle — schema design and REST APIs to responsive frontends and AI integrations — for domains that demand precision.
@@ -31,6 +34,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- Impact Metrics Section -->
 ## 📊 Impact at a Glance
 
 <div align="center">
@@ -48,6 +52,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -92,6 +97,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- Work Experience Section -->
 ## 💼 Work Experience
 
 ### Freelance Full Stack Developer — Clin Solutions L.L.C `Nov 2025 – Present`
@@ -150,6 +156,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- Featured Projects Section -->
 ## 🚀 Featured Projects
 
 <table>
@@ -236,6 +243,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- GitHub Stats Section -->
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -250,6 +258,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 
 ---
 
+<!-- Education Section -->
 ## 🎓 Education
 
 **B.E. Computer Science and Engineering** `2020 – 2024`
@@ -257,6 +266,7 @@ Aalim Muhammed Salegh College of Engineering · Anna University
 
 ---
 
+<!-- Footer Section -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
