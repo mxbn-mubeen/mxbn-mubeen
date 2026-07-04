@@ -102,7 +102,16 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 - Implemented **WHODrug dictionary** integration to standardise pharmaceutical terminology pipeline-wide
 - Delivered production-ready features across 3+ release cycles in direct collaboration with stakeholders
 
-`React` `TypeScript` `Node.js` `tRPC` `PostgreSQL` `Supabase` `Azure AI Translation` `Chakra UI` `Zod`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Azure AI Translation](https://img.shields.io/badge/Azure_AI_Translation-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
 
 ---
 
@@ -115,7 +124,16 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 - Built reusable component library adopted across multiple SaaS products — saved **20% dev time**
 - Delivered features ahead of Agile sprint milestones with 100% peer-review coverage
 
-`React.js` `Next.js` `TypeScript` `tRPC` `TanStack Query` `PostgreSQL` `Drizzle ORM` `Java` `Chakra UI`
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF6C37?style=flat-square&logo=reactquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+
 
 ---
 
@@ -124,7 +142,11 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 - Built predictive ML models using Python, Pandas, and Scikit-learn on structured datasets
 - Performed EDA and visualised insights with Matplotlib and Seaborn in a team of 4
 
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=seaborn&logoColor=white)
 
 ---
 
