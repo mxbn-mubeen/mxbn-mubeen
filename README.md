@@ -29,7 +29,7 @@ Full Stack Developer with **1+ year of professional experience** building scalab
 🏢  Full Stack Developer @ Nexobe                      Sep 2024 – Sep 2025  ·  Illinois, USA (Remote)
 🔬  Data Science Intern @ Exposys Data Labs            Aug 2023 – Sep 2023  ·  ML Pipelines, Scikit-learn
 🎓  B.E. Computer Science & Engineering — Anna University, 2020–2024
-📍  Chennai, India  ·  Open to remote & relocation
+📍  Sharjah, United Arab Emirates·  Open to remote & relocation
 ```
 
 
