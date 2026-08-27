@@ -22,7 +22,7 @@
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
-Full Stack Developer with **1+ year of professional experience** building scalable SaaS and healthcare web applications. Comfortable across the entire product lifecycle — schema design and REST APIs to responsive frontends and AI integrations — for domains that demand precision.
+Full Stack Developer with **2+ year of professional experience** building scalable SaaS and healthcare web applications. Comfortable across the entire product lifecycle — schema design and REST APIs to responsive frontends and AI integrations — for domains that demand precision.
 
 ```text
 💊  Freelance Full Stack Dev @ Clin Solutions L.L.C    Nov 2025 – Present  ·  USA (Remote)
